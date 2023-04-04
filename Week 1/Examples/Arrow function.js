@@ -1,0 +1,4 @@
+hello = () =>
+{
+    return "Hello World!";
+}
